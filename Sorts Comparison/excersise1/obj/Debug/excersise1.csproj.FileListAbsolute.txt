@@ -1,0 +1,12 @@
+c:\users\sahba\documents\visual studio 2015\Projects\excersise1\excersise1\bin\Debug\excersise1.exe.config
+c:\users\sahba\documents\visual studio 2015\Projects\excersise1\excersise1\bin\Debug\excersise1.exe
+c:\users\sahba\documents\visual studio 2015\Projects\excersise1\excersise1\bin\Debug\excersise1.pdb
+c:\users\sahba\documents\visual studio 2015\Projects\excersise1\excersise1\obj\Debug\excersise1.csprojResolveAssemblyReference.cache
+c:\users\sahba\documents\visual studio 2015\Projects\excersise1\excersise1\obj\Debug\excersise1.exe
+c:\users\sahba\documents\visual studio 2015\Projects\excersise1\excersise1\obj\Debug\excersise1.pdb
+E:\university\projects\excersise1\excersise1\bin\Debug\excersise1.exe.config
+E:\university\projects\excersise1\excersise1\obj\Debug\excersise1.exe
+E:\university\projects\excersise1\excersise1\obj\Debug\excersise1.pdb
+C:\Users\ICC\Documents\GIt HUB\projects\excersise1\excersise1\bin\Debug\excersise1.exe.config
+C:\Users\ICC\Documents\GIt HUB\projects\excersise1\excersise1\obj\Debug\excersise1.exe
+C:\Users\ICC\Documents\GIt HUB\projects\excersise1\excersise1\obj\Debug\excersise1.pdb
